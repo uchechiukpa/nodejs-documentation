@@ -32,4 +32,4 @@
 ## Introduction
 
 * [Overview](introduction/overview.md)
-* [Page 3](introduction/page-3.md)
+* [First Step](introduction/first-step.md)
